@@ -1,1 +1,7 @@
 2021/02/20 16:33:42 main.go:15: test
+2021/02/20 19:53:42 users.go:31: file is not a database
+2021/02/20 19:54:44 users.go:31: file is not a database
+2021/02/20 19:55:54 users.go:31: file is not a database
+2021/02/20 20:33:40 users.go:54: near "where": syntax error
+2021/02/20 20:33:55 users.go:54: near "where": syntax error
+2021/02/20 20:36:29 users.go:53: near "where": syntax error
