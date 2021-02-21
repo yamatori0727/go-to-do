@@ -5,3 +5,4 @@
 2021/02/20 20:33:40 users.go:54: near "where": syntax error
 2021/02/20 20:33:55 users.go:54: near "where": syntax error
 2021/02/20 20:36:29 users.go:53: near "where": syntax error
+2021/02/21 16:53:10 todos.go:86: near "?": syntax error
