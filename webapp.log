@@ -937,3 +937,21 @@ created by net/http.(*Server).Serve
 2021/02/23 20:22:52 main.go:16: sql: no rows in result set
 2021/02/23 20:23:09 main.go:16: sql: no rows in result set
 2021/02/23 20:26:06 main.go:16: sql: no rows in result set
+2021/02/24 21:02:30 route_main.go:26: no such table: user
+2021/02/24 21:02:30 route_main.go:26: no such table: user
+2021/02/24 21:02:33 route_main.go:26: no such table: user
+2021/02/24 21:02:33 route_main.go:26: no such table: user
+2021/02/24 21:02:33 route_main.go:26: no such table: user
+2021/02/24 21:02:33 route_main.go:26: no such table: user
+2021/02/24 21:02:34 route_main.go:26: no such table: user
+2021/02/24 21:02:34 route_main.go:26: no such table: user
+2021/02/24 21:02:34 route_main.go:26: no such table: user
+2021/02/24 21:02:34 route_main.go:26: no such table: user
+2021/02/24 21:02:36 route_main.go:26: no such table: user
+2021/02/24 21:02:36 route_main.go:26: no such table: user
+2021/02/24 21:02:36 route_main.go:26: no such table: user
+2021/02/24 21:02:36 route_main.go:26: no such table: user
+2021/02/24 21:02:48 route_main.go:26: no such table: user
+2021/02/24 21:02:48 route_main.go:26: no such table: user
+2021/02/24 21:04:23 route_main.go:26: no such table: user
+2021/02/24 21:04:23 route_main.go:26: no such table: user
